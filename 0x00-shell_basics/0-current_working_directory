@@ -1,2 +1,2 @@
 #!/bin/bash
-the command to print current working directory path is pwd
+pwd
